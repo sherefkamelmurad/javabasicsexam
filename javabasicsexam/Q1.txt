@@ -1,0 +1,13 @@
+a) push(): to add element to the end of an array.
+unshift(): to add element to the begining of the array . 
+B) example : 
+var a = 5 , b = 3; 
+a = a + b = 5+3 = 8 ;
+b = a - b = 8 - 3= 5 
+a = a - b = 8-5 = 3 ; 
+c ) 
+let word = "sheref" 
+for(let i = 0 ; i <=word.length;i++){ 
+    console.log(word[i])
+}
+
